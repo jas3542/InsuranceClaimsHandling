@@ -17,7 +17,10 @@ namespace InsuranceClaimsHandling.Controllers
         [Authorize]
         public IActionResult getAll()
         {
+            // TODO return Model
             return Ok(_claimsService.GetAllClaims());
         }
+
+        // TODO getALL(int first, int last) { }
     }
 }
