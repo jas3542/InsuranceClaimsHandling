@@ -55,8 +55,9 @@ C:\Users\Jas\Documents\_visualStudio_projects\InsuranceClaimsHandling\InsuranceC
 C:\Users\Jas\Documents\_visualStudio_projects\InsuranceClaimsHandling\InsuranceClaimsHandling\obj\Debug\netcoreapp3.1\staticwebassets\InsuranceClaimsHandling.StaticWebAssets.xml
 C:\Users\Jas\Documents\_visualStudio_projects\InsuranceClaimsHandling\InsuranceClaimsHandling\obj\Debug\netcoreapp3.1\scopedcss\bundle\InsuranceClaimsHandling.styles.css
 C:\Users\Jas\Documents\_visualStudio_projects\InsuranceClaimsHandling\InsuranceClaimsHandling\obj\Debug\netcoreapp3.1\InsuranceClaimsHandling.RazorTargetAssemblyInfo.cache
-C:\Users\Jas\Documents\_visualStudio_projects\InsuranceClaimsHandling\InsuranceClaimsHandling\obj\Debug\netcoreapp3.1\InsuranceClaimsHandling.csproj.CopyComplete
 C:\Users\Jas\Documents\_visualStudio_projects\InsuranceClaimsHandling\InsuranceClaimsHandling\obj\Debug\netcoreapp3.1\InsuranceClaimsHandling.dll
 C:\Users\Jas\Documents\_visualStudio_projects\InsuranceClaimsHandling\InsuranceClaimsHandling\obj\Debug\netcoreapp3.1\InsuranceClaimsHandling.pdb
 C:\Users\Jas\Documents\_visualStudio_projects\InsuranceClaimsHandling\InsuranceClaimsHandling\obj\Debug\netcoreapp3.1\InsuranceClaimsHandling.genruntimeconfig.cache
 C:\Users\Jas\Documents\_visualStudio_projects\InsuranceClaimsHandling\InsuranceClaimsHandling\obj\Debug\netcoreapp3.1\InsuranceClaimsHandling.csproj.AssemblyReference.cache
+C:\Users\Jas\Documents\_visualStudio_projects\InsuranceClaimsHandling\InsuranceClaimsHandling\obj\Debug\netcoreapp3.1\InsuranceClaimsHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jas\Documents\_visualStudio_projects\InsuranceClaimsHandling\InsuranceClaimsHandling\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll

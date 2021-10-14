@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Z8CoaHwehCiPdeYg9vSZj3Dn4i7Gcgo7nR56wtPXx2+jQghvshZPw1IHob/YuhUHl2rQOLRFQzXqBp4Qgq3+Bw==",
+  "dgSpecHash": "f/i4cDY5f1wpBMhWIG+NA9PJ1Jr0uq8af48Rq6IYkBH72gNLJ4llxnwwJ2Z05z0XRNkTMZIhJYPpqeYuhe6bsg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jas\\Documents\\_visualStudio_projects\\InsuranceClaimsHandling\\InsuranceClaimsHandling\\InsuranceClaimsHandling.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\Jas\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.10\\microsoft.entityframeworkcore.5.0.10.nupkg.sha512",
     "C:\\Users\\Jas\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.10\\microsoft.entityframeworkcore.abstractions.5.0.10.nupkg.sha512",
     "C:\\Users\\Jas\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.10\\microsoft.entityframeworkcore.analyzers.5.0.10.nupkg.sha512",
+    "C:\\Users\\Jas\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\5.0.10\\microsoft.entityframeworkcore.inmemory.5.0.10.nupkg.sha512",
     "C:\\Users\\Jas\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.10\\microsoft.entityframeworkcore.relational.5.0.10.nupkg.sha512",
     "C:\\Users\\Jas\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.10\\microsoft.entityframeworkcore.sqlserver.5.0.10.nupkg.sha512",
     "C:\\Users\\Jas\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",

@@ -32,8 +32,9 @@ namespace InsuranceClaimsHandling
             services.AddControllers();
 
             // registering the DataContext:
-            services.AddDbContext<DataContext>(options =>
-            options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            //services.AddDbContext<DataContext>(options =>
+            //    options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<DataContext>(options => options.UseInMemoryDatabase(databaseName: "InMemoryDBContext"));
 
             // Injecting Services:
             services.AddScoped<IAuthenticationService, AuthenticationService>();

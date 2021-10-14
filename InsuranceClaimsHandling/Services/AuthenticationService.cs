@@ -1,4 +1,5 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using InsuranceClaimsHandling.Entities;
+using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using System;
 using System.IdentityModel.Tokens.Jwt;
@@ -17,6 +18,14 @@ namespace InsuranceClaimsHandling
         {
             _dbContext = dbContext;
             _configuration = configuration;
+            if (_dbContext.Users.Count() == 0) { 
+                _dbContext.Users.Add(new User() { UserId = 1, DisplayName = "1st User", UserName = "User1", Password = "Pass1", Active = true });
+                _dbContext.Users.Add(new User() { UserId = 2, DisplayName = "2nd User", UserName = "User2", Password = "Pass2", Active = true });
+                _dbContext.Users.Add(new User() { UserId = 3, DisplayName = "3rd User", UserName = "User3", Password = "Pass3", Active = true });
+                _dbContext.Users.Add(new User() { UserId = 4, DisplayName = "4th User", UserName = "User4", Password = "Pass4", Active = false });
+                _dbContext.SaveChanges();
+            }
+
         }
 
         public string Authentication(string name, string password)
